@@ -4,7 +4,8 @@ function App() {
   return (
     <div className="App">
       <h1>Brett's Big Money Making Machine</h1>
-      <button>Deposit $1,000,000.00</button>
+      <p>This is a sub heading!</p>
+      <button>Deposit $1</button>
     </div>
   );
 }
